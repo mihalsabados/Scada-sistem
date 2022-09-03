@@ -1,0 +1,12 @@
+G:\Mihal\ja\FAKS\Trecagodina\SNUS\Projekat\Scada\Scada\bin\Scada.dll.config
+G:\Mihal\ja\FAKS\Trecagodina\SNUS\Projekat\Scada\Scada\bin\Scada.dll
+G:\Mihal\ja\FAKS\Trecagodina\SNUS\Projekat\Scada\Scada\bin\Scada.pdb
+G:\Mihal\ja\FAKS\Trecagodina\SNUS\Projekat\Scada\Scada\bin\EntityFramework.dll
+G:\Mihal\ja\FAKS\Trecagodina\SNUS\Projekat\Scada\Scada\bin\EntityFramework.SqlServer.dll
+G:\Mihal\ja\FAKS\Trecagodina\SNUS\Projekat\Scada\Scada\bin\EntityFramework.xml
+G:\Mihal\ja\FAKS\Trecagodina\SNUS\Projekat\Scada\Scada\bin\EntityFramework.SqlServer.xml
+G:\Mihal\ja\FAKS\Trecagodina\SNUS\Projekat\Scada\Scada\obj\Debug\Scada.csproj.AssemblyReference.cache
+G:\Mihal\ja\FAKS\Trecagodina\SNUS\Projekat\Scada\Scada\obj\Debug\Scada.csproj.CoreCompileInputs.cache
+G:\Mihal\ja\FAKS\Trecagodina\SNUS\Projekat\Scada\Scada\obj\Debug\Scada.csproj.CopyComplete
+G:\Mihal\ja\FAKS\Trecagodina\SNUS\Projekat\Scada\Scada\obj\Debug\Scada.dll
+G:\Mihal\ja\FAKS\Trecagodina\SNUS\Projekat\Scada\Scada\obj\Debug\Scada.pdb

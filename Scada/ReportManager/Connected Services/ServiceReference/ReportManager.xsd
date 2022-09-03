@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/Scada" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/Scada" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="ArrayOfAlarmHistory">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="AlarmHistory" nillable="true" type="tns:AlarmHistory" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfAlarmHistory" nillable="true" type="tns:ArrayOfAlarmHistory" />
+  <xs:complexType name="AlarmHistory">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Id" type="xs:int" />
+      <xs:element minOccurs="0" name="Limit" type="xs:double" />
+      <xs:element minOccurs="0" name="Priority" type="xs:int" />
+      <xs:element minOccurs="0" name="TagId" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Time" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="Type" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="AlarmHistory" nillable="true" type="tns:AlarmHistory" />
+  <xs:complexType name="ArrayOfTagValue">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="TagValue" nillable="true" type="tns:TagValue" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfTagValue" nillable="true" type="tns:ArrayOfTagValue" />
+  <xs:complexType name="TagValue">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Id" type="xs:int" />
+      <xs:element minOccurs="0" name="TagId" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Time" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="Type" type="tns:TagValue.TagType" />
+      <xs:element minOccurs="0" name="currentValue" type="xs:double" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="TagValue" nillable="true" type="tns:TagValue" />
+  <xs:simpleType name="TagValue.TagType">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="INPUT" />
+      <xs:enumeration value="OUTPUT" />
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:element name="TagValue.TagType" nillable="true" type="tns:TagValue.TagType" />
+</xs:schema>

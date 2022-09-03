@@ -1,0 +1,7 @@
+G:\Mihal\ja\FAKS\Trecagodina\SNUS\Projekat\Scada\AlarmDisplay\bin\Debug\AlarmDisplay.exe.config
+G:\Mihal\ja\FAKS\Trecagodina\SNUS\Projekat\Scada\AlarmDisplay\bin\Debug\AlarmDisplay.exe
+G:\Mihal\ja\FAKS\Trecagodina\SNUS\Projekat\Scada\AlarmDisplay\bin\Debug\AlarmDisplay.pdb
+G:\Mihal\ja\FAKS\Trecagodina\SNUS\Projekat\Scada\AlarmDisplay\obj\Debug\AlarmDisplay.csproj.CoreCompileInputs.cache
+G:\Mihal\ja\FAKS\Trecagodina\SNUS\Projekat\Scada\AlarmDisplay\obj\Debug\AlarmDisplay.exe
+G:\Mihal\ja\FAKS\Trecagodina\SNUS\Projekat\Scada\AlarmDisplay\obj\Debug\AlarmDisplay.pdb
+G:\Mihal\ja\FAKS\Trecagodina\SNUS\Projekat\Scada\AlarmDisplay\obj\Debug\AlarmDisplay.csproj.AssemblyReference.cache

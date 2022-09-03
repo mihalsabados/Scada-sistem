@@ -1,0 +1,7 @@
+G:\Mihal\ja\FAKS\Trecagodina\SNUS\Projekat\Scada\Trending\bin\Debug\Trending.exe.config
+G:\Mihal\ja\FAKS\Trecagodina\SNUS\Projekat\Scada\Trending\bin\Debug\Trending.exe
+G:\Mihal\ja\FAKS\Trecagodina\SNUS\Projekat\Scada\Trending\bin\Debug\Trending.pdb
+G:\Mihal\ja\FAKS\Trecagodina\SNUS\Projekat\Scada\Trending\obj\Debug\Trending.csproj.AssemblyReference.cache
+G:\Mihal\ja\FAKS\Trecagodina\SNUS\Projekat\Scada\Trending\obj\Debug\Trending.csproj.CoreCompileInputs.cache
+G:\Mihal\ja\FAKS\Trecagodina\SNUS\Projekat\Scada\Trending\obj\Debug\Trending.exe
+G:\Mihal\ja\FAKS\Trecagodina\SNUS\Projekat\Scada\Trending\obj\Debug\Trending.pdb
